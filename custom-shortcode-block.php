@@ -16,7 +16,8 @@ function custom_shortcode_block_register_block() {
         'custom-shortcode-block-editor',
         plugins_url('build/index.js', __FILE__),
         array('wp-blocks', 'wp-element', 'wp-editor', 'wp-components', 'wp-i18n'),
-        filemtime(plugin_dir_path(__FILE__) . 'build/index.js')
+        filemtime(plugin_dir_path(__FILE__) . 'build/index.js'),
+        true
     );
 
     wp_register_style(
