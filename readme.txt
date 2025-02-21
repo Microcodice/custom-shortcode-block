@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 GitHub: custom-shortcode-block
-Website: https://microdice.it
+Website: https://microcodice.it
 
 A custom Gutenberg block for inserting shortcodes with advanced styling options like padding, margin, and background color.
 
@@ -60,7 +60,7 @@ If you'd like to contribute to this plugin, please follow these steps:
 3. Submit a pull request with your changes.
 
 == Credits ==
-- Developed by [Microcodice](https://microdice.it).
+- Developed by [Microcodice](https://microcodice.it).
 - Built with [@wordpress/scripts](https://www.npmjs.com/package/@wordpress/scripts).
 
 == License ==
