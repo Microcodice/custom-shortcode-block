@@ -52,7 +52,7 @@ If you'd like to contribute to this plugin, please follow these steps:
 
 ## Credits
 
-- **Developed by**: [Microcodice](https://microdice.it)
+- **Developed by**: [Microcodice](https://microcodice.it)
 - **Built with**: [@wordpress/scripts](https://www.npmjs.com/package/@wordpress/scripts)
 
 ## License
